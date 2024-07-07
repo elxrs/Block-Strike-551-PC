@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_Name: pb_Mesh510046
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 18
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 12
+    localAABB:
+      m_Center: {x: -0.2500007, y: -0.125, z: 2.749999}
+      m_Extent: {x: 2.250001, y: 0.125, z: 2.750001}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes:
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 0000010002000100030002000600050004000600070005000a00090008000a000b000900
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 159
+    m_VertexCount: 12
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 24
+      format: 2
+      dimension: 4
+    - stream: 0
+      offset: 28
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 36
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 44
+      format: 0
+      dimension: 4
+    m_DataSize: 720
+    _typelessdata: ffff1fc000000000ec56fdb5000000000000803f00000000ffffffff00000036000000000bd7a33c4cd7a33c0000803f000000001c940832000080bf070020c000000000fcffaf40000000000000803f00000000ffffffff000000000000b0405f62113f0bd7a33c0000803f000000001c948831000080bf0100004000000000dc26e2b4000000000000803f00000000ffffffff040090400000c0353ad7a33c6ac3ef3e0000803f000000001c948831000080bff3ffff3f00000000ffffaf40000000000000803f00000000ffffffff000090400300b0406062113f66c3ef3e0000803f0000000000000000000080bfffff1fc000000000ec56fdb5000080bf000000008c2ebab4ffffffff0000b0400000803e10d7a33c4d427b3f8c2eba3400000000000080bf000080bf070020c000000000fcffaf40000080bf000000008c2ebab4ffffffff000000000000803e5c62113f4d427b3f8c2eba3400000000000080bf000080bfffff1fc0000080beec56fdb5000080bf000000008c2ebab4ffffffff0000b040000000000bd7a33c23e2743f8c2eba3400000000000080bf000080bf070020c0000080befcffaf40000080bf000000008c2ebab4ffffffff00000000000000005c62113f23e2743f8c2eba3400000000000080bf000080bf070020c0000080befcffaf4000000000000080bf00000000ffffffff040090400000b04030d7a33cdb00fa3e000080bf0000000000000000000080bff3ffff3f000080beffffaf4000000000000080bf00000000ffffffff000000360300b0400bd7a33c68c36f3f000080bf000000001f9488b1000080bfffff1fc0000080beec56fdb500000000000080bf00000000ffffffff00009040000000006062113fdf00fa3e000080bf000000001f9488b1000080bf01000040000080bedc26e2b400000000000080bf00000000ffffffff000000000000c0355f62113f6ac36f3f000080bf000000001f9408b2000080bf
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: -0.2500007, y: -0.125, z: 2.749999}
+    m_Extent: {x: 2.250001, y: 0.125, z: 2.750001}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh:
+  m_BakedTriangleCollisionMesh:
+  m_MeshOptimized: 1

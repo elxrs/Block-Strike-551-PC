@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1369200937022539}
+  m_IsPrefabParent: 1
+--- !u!1 &1369200937022539
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4608137961633544}
+  - component: {fileID: 114574948707863690}
+  - component: {fileID: 114035852470483380}
+  m_Layer: 0
+  m_Name: GrenadeTPS
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &4608137961633544
+Transform:
+  m_GameObject: {fileID: 1369200937022539}
+  m_LocalRotation: {x: -0.7071068, y: 0.7071068, z: 1.345359E-07, w: -7.131256E-08}
+  m_LocalPosition: {x: 0.08599962, y: 0, z: 0.1389998}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4193104555411945}
+  - {fileID: 4922899090068431}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 180, y: -5.122892E-06, z: 90}
+--- !u!114 &114574948707863690
+MonoBehaviour:
+  m_GameObject: {fileID: 1369200937022539}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2c2dc6e8444eaa49b7ee871cc18430b, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  WeaponID: 0
+  WeaponSkin: 0
+  WeaponStickers:
+  WeaponAtlas: []
+  isMuzzle: 0
+  Muzzle: {fileID: 0}
+  DefaultPosition: {x: 0.08599962, y: 0, z: 0.1389998}
+  DefaultRotation: {x: -0.7071068, y: 0.7071068, z: 1.345359E-07, w: -7.131256E-08}
+  ContainerPosition: {x: 0, y: 0, z: 0}
+  ContainerRotation: {x: 0, y: 0, z: 0, w: 0}
+  FireStat: 0
+  FireStatModel: {fileID: 0}
+  FireStatCounters: []
+  FireStatValue: -1
+  Stickers: []
+  SparkEffect: 0
+  SparkEffectParticle: {fileID: 0}
+  SparkEffectTransform: {fileID: 0}
+  CanSound: 1
+  Timer: {fileID: 114035852470483380}
+  TwoHandedWeapon: 0
+  TwoWeapon: {fileID: 0}
+  TwoMuzzle: {fileID: 0}
+  TwoWeaponPosition: {x: 0, y: 0, z: 0}
+  TwoWeaponRotation: {x: 0, y: 0, z: 0}
+--- !u!114 &114035852470483380
+MonoBehaviour:
+  m_GameObject: {fileID: 1369200937022539}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 823552188e4e26443972db45a7dfd912, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+--- !u!1 &1851796777028131
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4193104555411945}
+  - component: {fileID: 33473001299837476}
+  - component: {fileID: 23855048002575906}
+  m_Layer: 0
+  m_Name: Grenade
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4193104555411945
+Transform:
+  m_GameObject: {fileID: 1851796777028131}
+  m_LocalRotation: {x: 0.6972131, y: 0.02304714, z: -0.02584644, w: -0.7160271}
+  m_LocalPosition: {x: -0.005, y: -0.024, z: 0.083}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4608137961633544}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -88.46855, y: -0.1739615, z: -3.965245}
+--- !u!33 &33473001299837476
+MeshFilter:
+  m_GameObject: {fileID: 1851796777028131}
+  m_Mesh: {fileID: 4300000, guid: 176290d6b7178104a80ee1d0bf12ad34, type: 2}
+--- !u!23 &23855048002575906
+MeshRenderer:
+  m_GameObject: {fileID: 1851796777028131}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 95afb7e3c09dd5344995727f409ddfc1, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!1 &1143021425927548
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4922899090068431}
+  - component: {fileID: 33705421751017226}
+  - component: {fileID: 23776393595357814}
+  m_Layer: 0
+  m_Name: Object001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4922899090068431
+Transform:
+  m_GameObject: {fileID: 1143021425927548}
+  m_LocalRotation: {x: 0.697213, y: 0.02304743, z: -0.02584692, w: -0.7160271}
+  m_LocalPosition: {x: -0.004999996, y: -0.0240004, z: 0.08299986}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4608137961633544}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -88.46854, y: -0.1739758, z: -3.965307}
+--- !u!33 &33705421751017226
+MeshFilter:
+  m_GameObject: {fileID: 1143021425927548}
+  m_Mesh: {fileID: 4300000, guid: 9500fa8a4b59e9e4db27082d739a2d42, type: 2}
+--- !u!23 &23776393595357814
+MeshRenderer:
+  m_GameObject: {fileID: 1143021425927548}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 95afb7e3c09dd5344995727f409ddfc1, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0

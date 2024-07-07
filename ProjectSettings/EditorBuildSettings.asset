@@ -1,0 +1,242 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/AwakeScene.unity
+    guid: 9156f7270f92f4c4f869e4c26b4915c5
+  - enabled: 1
+    path: Assets/Levels/Logo.unity
+    guid: 73621f3bd8a36044b9bf97f314b45b54
+  - enabled: 1
+    path: Assets/Levels/GDPR.unity
+    guid: 7675779ddb82fb34592f00a504e47a97
+  - enabled: 1
+    path: Assets/Levels/Menu.unity
+    guid: 29ebc176cef480c40b8d9a7e5515b18e
+  - enabled: 1
+    path: Assets/Levels/Maps/Tutorials/MainTutorial/MainTutorial.unity
+    guid: 580a186ff71ebf34eb5d3a30e7f37ebd
+  - enabled: 1
+    path: Assets/Levels/Maps/Tutorials/ShootingRange/Shooting Range.unity
+    guid: 652c2219045c7c344b3a03119b6a78f9
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Dust/Dust.unity
+    guid: deda7bdb48267b8458bcb6f0c1a5a0b6
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Aim/Aim.unity
+    guid: b804745394be15e48b800b4d0d5e9e3a
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/3000/3000.unity
+    guid: ddc7a2cb7b004574ca0142f88ca52452
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Office/Office.unity
+    guid: 8bb0ec3eaff9e254f9b61500e83ed446
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Snow/Snow.unity
+    guid: dc052caf89487ed4fb55597960a1b7ff
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Rast/Rast.unity
+    guid: d7f39e6b11ef3d848b3e345d74ecab19
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Nauts/Nauts.unity
+    guid: 6d05f5987421462459bda5fd6eb158dc
+  - enabled: 1
+    path: Assets/Levels/Maps/DeathRun/Jacuda/Jacuda.unity
+    guid: 5a6a4fe09b864ec438266be5f79d8d1e
+  - enabled: 1
+    path: Assets/Levels/Maps/DeathRun/Firati/Firati.unity
+    guid: 9f2b50f925d240448a8a5a0132e77d83
+  - enabled: 1
+    path: Assets/Levels/Maps/DeathRun/Grade/Grade.unity
+    guid: 61eee62ad75d7eb4699bc6237f0a7288
+  - enabled: 1
+    path: Assets/Levels/Maps/Hunter/Military Range/Military Range.unity
+    guid: 841e3ccb2982a184b903854acfdcf2f1
+  - enabled: 1
+    path: Assets/Levels/Maps/Hunter/Hill/Hill.unity
+    guid: f850a8351b51e7c4097efef17962059b
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Tecaza/Tecaza.unity
+    guid: e8b564f00f6f70e43a3d654bc9de53d6
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/100HP/100HP.unity
+    guid: 984c8eb4f2d2c1744b95a46427dc68d1
+  - enabled: 1
+    path: Assets/Levels/Maps/DeathRun/Ciald/Ciald.unity
+    guid: ff48ac616d26c9149a15ae76c8ff4ac1
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Dust 2x2/Dust 2x2.unity
+    guid: e7392f9b1562dcd49b7088d6174aba2d
+  - enabled: 1
+    path: Assets/Levels/Maps/Zombie/Battleforce/Battleforce.unity
+    guid: ecad7ee5cab4f5f48966e741bee38ca6
+  - enabled: 1
+    path: Assets/Levels/Maps/DeathRun/Long/Long.unity
+    guid: 870c440dd25919f4e9ba5df87137725e
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Pool/Pool.unity
+    guid: 23e7a34aca2f213438a43f8f1996d223
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Villa/Villa.unity
+    guid: f2072e93032661c4390eeb82bc11ec01
+  - enabled: 1
+    path: Assets/Levels/Maps/BunnyHop/Trainer/Trainer.unity
+    guid: 598aa9b6595a8374393473767d8350f8
+  - enabled: 1
+    path: Assets/Levels/Maps/BunnyHop/Speed/Speed.unity
+    guid: 73dcbd9137cb5fe4695864da59c1f7bb
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Skyline/Skyline.unity
+    guid: fefa5a6651373a54d93e3c568757c42d
+  - enabled: 1
+    path: Assets/Levels/Maps/BunnyHop/Fall/Fall.unity
+    guid: d18ca7119cd66e446986148d1138503c
+  - enabled: 1
+    path: Assets/Levels/Maps/BunnyHop/Eazy/Eazy.unity
+    guid: 93566275adf49dc4eb43f970d552b38b
+  - enabled: 1
+    path: Assets/Levels/Maps/HungerGames/Pyramids/Pyramids.unity
+    guid: 0c78a097259571c4b83bc44355620abb
+  - enabled: 1
+    path: Assets/Levels/Maps/HungerGames/Coliseum/Coliseum.unity
+    guid: 57ec35bfbaae0b74bad86dd6a85a982b
+  - enabled: 1
+    path: Assets/Levels/Maps/BunnyHop/Stronger/Stronger.unity
+    guid: d48a2239d587c9b4abff9f7b6c31f72f
+  - enabled: 1
+    path: Assets/Levels/Maps/DeathRun/Stander/Stander.unity
+    guid: 94e65920112c66848b52e3370f479af7
+  - enabled: 1
+    path: Assets/Levels/Maps/BunnyHop/Jumpout/Jumpout.unity
+    guid: 1cb27c50af07fd54283a6f96368d13b4
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Turbine/Turbine.unity
+    guid: 2179fa1cec60fdc4b945b86a18501244
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Compact/Compact.unity
+    guid: 4f7e412c979606a4dbbf87e7c2ba37ff
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Upload/Upload.unity
+    guid: 24c696a74c778f449be9028019e6be74
+  - enabled: 1
+    path: Assets/Levels/Maps/DeathRun/Fractal/Fractal.unity
+    guid: 76f01c3def90c4f49a75f715af7b0131
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/India/India.unity
+    guid: 7160baba37d05dc42b57667cc7d9345b
+  - enabled: 1
+    path: Assets/Levels/Maps/HungerGames/Labyrinth/Labyrinth.unity
+    guid: 4b16a3aaa9894bb4b9e9694213a8737b
+  - enabled: 1
+    path: Assets/Levels/Maps/Hunter/Rise/Rise.unity
+    guid: 961b84ef89e4cc4469c6bec0abd223c5
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Dust 2/Dust 2.unity
+    guid: 20c1db72144dfb04c9c7abca3a56ec6c
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Apache/Apache.unity
+    guid: 84648a9cf32d9104db08999a38a0b623
+  - enabled: 1
+    path: Assets/Levels/Maps/BunnyHop/Harder/Harder.unity
+    guid: a8f053425d51e4c42a05a0c0c94170c2
+  - enabled: 1
+    path: Assets/Levels/Maps/DeathRun/Journey/Journey.unity
+    guid: a7196136b12e02048b557d4de8f3b7ff
+  - enabled: 1
+    path: Assets/Levels/Maps/MiniGames/Football/Skyfield/Skyfield.unity
+    guid: 1cbdd2c05be480b4c8bec8cb7b7ef282
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Harage/Harage.unity
+    guid: 3d8c25f271cbb0c47accd10c4bcce8bf
+  - enabled: 1
+    path: Assets/Levels/Maps/MiniGames/Football/Sunshine/Sunshine.unity
+    guid: f6ca2bc4e85a2844db08f5b66f8a704c
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Storage/Storage.unity
+    guid: c9445c06fb956ef40b6349e2544c5c02
+  - enabled: 1
+    path: Assets/Levels/Maps/Zombie/Playground/Playground.unity
+    guid: 03d8583e6f24a0540a533393078863c8
+  - enabled: 1
+    path: Assets/Levels/Maps/BunnyHop/Better/Better.unity
+    guid: b75c2d8a93864684cab8971c1c1958f5
+  - enabled: 1
+    path: Assets/Levels/Maps/Surf/Jet/Jet.unity
+    guid: 4270ed6fb7866584b95a657f76b3bd6b
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Casta/Casta.unity
+    guid: f5badf9cd304839418c9ffb493f32063
+  - enabled: 1
+    path: Assets/Levels/Maps/Surf/Deep/Deep.unity
+    guid: 8f1a7122bff5b7d41bb0d70e7bd54cf9
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Lenstown/Lenstown.unity
+    guid: 296e2d648303502439cb03266ceef106
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/District/District.unity
+    guid: 4cb40a6f09f361d418fb6c03504f0ce4
+  - enabled: 1
+    path: Assets/Levels/Maps/BunnyHop/Various/Various.unity
+    guid: 45f408e911b6218448ba703eedeb01fd
+  - enabled: 1
+    path: Assets/Levels/Maps/MiniGames/50Traps/50Traps.unity
+    guid: a2830dd5967f361468494a43220d1696
+  - enabled: 1
+    path: Assets/Levels/Maps/DeathRun/Simple/Simple.unity
+    guid: 2c4ac7aa1cb23144aaf21101e6696551
+  - enabled: 1
+    path: Assets/Levels/Maps/MiniGames/BoxRoad/BoxRoad.unity
+    guid: 0c338dce9ded91d47b47e5a7dbfda1e6
+  - enabled: 1
+    path: Assets/Levels/Maps/MiniGames/Spleef/Spleef.unity
+    guid: ec841277db35af747b9ee952d76435a7
+  - enabled: 1
+    path: Assets/Levels/Maps/MiniGames/Push/Push.unity
+    guid: 462747867c841f94da33696bdd0cad8a
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Range/Range.unity
+    guid: 3ba0afb9e19b30f43853cbbc0fc6bfac
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Gravity/Gravity.unity
+    guid: e7a5a6615171e2e449b6e9cfc2f38903
+  - enabled: 1
+    path: Assets/Levels/Maps/Zombie/Upland/Upland.unity
+    guid: 69dd80d41038a2649b96f1485714313c
+  - enabled: 1
+    path: Assets/Levels/Maps/Zombie/Escape/Escape.unity
+    guid: 6850cdfeb7ca7084faf020114abf7cd1
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Sector/Sector.unity
+    guid: 293539dd84e90954aa2c9abfbd3d4f15
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Carnage/Carnage.unity
+    guid: 06a813eee0e44a04ab99267e75df41b8
+  - enabled: 1
+    path: Assets/Levels/Maps/MiniGames/BlockParty/BlockParty.unity
+    guid: 07426a8f3606d0844a5ce2282b1f2deb
+  - enabled: 1
+    path: Assets/Levels/Maps/Meeting/Meeting.unity
+    guid: 2a770779c06f3b44c971f8c9d1d92e4d
+  - enabled: 1
+    path: Assets/Levels/Maps/MiniGames/Hot Knife/Hot Knife.unity
+    guid: 42a57b373dae2a447b87cf9258f98451
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Factory/Factory.unity
+    guid: 68d313be636cc3b4ba2f8cd2aaa1ae59
+  - enabled: 1
+    path: Assets/Levels/Maps/DeathRun/Delay/Delay.unity
+    guid: 318085a6883a905459e89b7ce46e4cbc
+  - enabled: 1
+    path: Assets/Levels/Maps/MiniGames/Tennis/Tennis.unity
+    guid: 4603566bf6e28aa40885e83e93cdbb49
+  - enabled: 1
+    path: Assets/Levels/Maps/MiniGames/Dropper/Dropper.unity
+    guid: 29ea5c3d718862d4fbebac0bafcc4bc0
+  - enabled: 1
+    path: Assets/Levels/Maps/Others/Office (Beta)/Office (Beta).unity
+    guid: 11eef2dfbf464c040ae070d063da57e6
+  m_configObjects: {}
